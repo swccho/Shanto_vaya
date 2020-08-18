@@ -1,0 +1,152 @@
+.food{
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 2px;
+    border-radius: 12px;    
+}
+.headPhone{
+    color: white;
+    position: relative;
+    bottom: 85%;
+    left: 23%;
+}
+.btnHP{
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 20px;
+    background: none;
+    opacity: .7;
+    font-weight: bold;
+    position: absolute;
+    top: 80%;
+    left: 110px;
+    color: white;
+}
+.btnHP:hover{
+    background-color: white;
+    color: black;
+    opacity: 1;
+    transition: .4s;
+}
+.fa-paper-plane{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    color: black;
+    background-color:white;
+    border-radius: 50%;
+    padding-left: 9px;
+    padding-top: 9px;
+    
+}
+#input1{
+    background: none;
+    border-radius: 20px;
+    outline: none;
+    border: 1px solid white;
+    padding-left: 20px;
+    width: 100%;
+   
+
+}
+#input1:hover{
+    background-color: white;
+    transition: .4s;
+}
+.btnsub{
+    border: 1px solid white;
+    outline: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:white ;
+    border-radius: 20px;
+    color: black;
+    width: 50%;
+    text-align: center;
+
+
+}
+.icons{
+    margin-top: 20px;
+    font-size: 25px;
+    float: left;
+    width: 150px;
+   
+    margin-right: 5px;
+}
+.icons > div{
+    margin-bottom: 20%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 10px;
+}
+.leftt{
+    position: relative;
+    left: 10px;
+    
+    
+}
+.Atag{
+     display: inline-block;
+     padding-top:10px ;
+     padding-bottom: 10px;
+}
+
+
+.nav li a{
+    font-size: 14px;
+    
+    text-align: center;
+}
+
+.Rnav > a{
+    background-color: grey;
+    color: white;
+    text-decoration: none;
+    padding-left: 31px;
+    padding-right:31px ;
+    margin: 0;
+    display: inline-block;
+    border: none;
+}
+.Rnav > a:hover{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.cat-btn{
+border: 1px solid;
+padding: 5px;
+margin-left: 10px;
+color: grey;
+font-weight: bold;
+}
+.nxt > li{
+ margin-left: 10px;
+ color: black;
+ font-size: 25px;
+ width: 30px;
+ text-align: center;
+ border: 1px solid grey;
+
+}
+.nxt > li:hover{
+    color: white;
+    background-color: black;
+    transition: .4s;
+}
+
+.HPNE{
+    color: white;
+    position: relative;
+    left: 35%;
+    bottom: 40%;
+}
+.btn112{
+    position: absolute;
+    left: 40%;
+    top: 35%;
+}
